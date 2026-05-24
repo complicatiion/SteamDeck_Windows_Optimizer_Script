@@ -1,0 +1,98 @@
+STEAM DECK WINDOWS OPTIMIZER - DOWNLOAD SOURCES
+==============================================
+
+[OFFICIAL VALVE DRIVERS]
+Steam Deck Windows Resources:
+https://help.steampowered.com/en/faqs/view/6121-ECCD-D643-BAA8
+
+--------------------------------------------------
+
+[WINDOWS INSTALLATION]
+Windows 11 ISO:
+https://www.microsoft.com/software-download/windows11
+
+Rufus:
+https://rufus.ie
+
+Ventoy:
+https://www.ventoy.net
+
+--------------------------------------------------
+
+[STEAM DECK COMMUNITY TOOLS]
+Steam Deck Tools:
+https://steam-deck-tools.ayufan.dev
+
+Steam Deck Tools GitHub:
+https://github.com/ayufan/steam-deck-tools
+
+Steam Deck Tools Releases:
+https://github.com/ayufan/steam-deck-tools/releases
+
+--------------------------------------------------
+
+[ALTERNATIVE TOOL SUITE]
+Handheld Companion:
+https://handheldcompanion.com
+
+Handheld Companion GitHub:
+https://github.com/Valkirie/HandheldCompanion
+
+--------------------------------------------------
+
+[CONTROLLER / INPUT]
+ViGEmBus:
+https://github.com/nefarius/ViGEmBus/releases
+
+GlosSI:
+https://github.com/Alia5/GlosSI
+
+--------------------------------------------------
+
+[PERFORMANCE / OSD]
+RTSS:
+https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download
+
+Microsoft Visual C++ Redistributable:
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist
+
+--------------------------------------------------
+
+[DUAL BOOT]
+Steam Deck Clover Dual Boot:
+https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot
+
+rEFInd:
+https://www.rodsbooks.com/refind
+
+--------------------------------------------------
+
+[COMMUNITY / GUIDES]
+WindowsOnDeck Reddit:
+https://www.reddit.com/r/WindowsOnDeck
+
+Steam Deck Windows Guide:
+https://baldsealion.com/Steam-Deck-Ultimate-Windows-Guide
+
+ProtonDB:
+https://www.protondb.com
+
+--------------------------------------------------
+
+[OPTIONAL TOOLS]
+AMD Driver Support:
+https://www.amd.com/en/support
+
+CrystalDiskInfo:
+https://crystalmark.info/en/software/crystaldiskinfo
+
+HWiNFO:
+https://www.hwinfo.com
+
+CPU-Z:
+https://www.cpuid.com/softwares/cpu-z.html
+
+
+==============================================
+complicatiion aka sksdesign 24.05.2026
+==============================================
